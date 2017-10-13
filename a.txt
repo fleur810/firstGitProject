@@ -6,3 +6,8 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/fleur810/firstGitProject.git
 git push -u origin master
+
+
+--------------------------------
+
+작업번호 001에 대한 추가 작업
